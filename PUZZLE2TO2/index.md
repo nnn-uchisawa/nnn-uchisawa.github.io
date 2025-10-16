@@ -12,4 +12,7 @@
 パズルを極めたいあなたに捧ぐ、新しい挑戦。
 
 [プライバシーポリシー](./privacy_policy.md)<br>
-[利用規約](./term_of_use.md)
+[利用規約](./term_of_use.md)<br>
+
+Contact<br>
+[puzzle2to2@gmail.com](puzzle2to2@gmail.com)
