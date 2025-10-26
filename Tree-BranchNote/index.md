@@ -2,10 +2,15 @@
 <img src="example1.PNG" height="300">
 <img src="example2.PNG" height="300">
 <img src="example3.PNG" height="300">
-<br><br>
-<a href="https://apps.apple.com/jp/app/tree-branchnote/id6753930828
-"><img src="../Download_on_the_App_Store_Badge_JP_RGB_blk_100317.svg" height="50"/></a><br><br>
 
+<br>
+
+<a href="https://apps.apple.com/jp/app/tree-branchnote/id6753930828
+"><img src="qr-code.png" width="100"/></a>
+　<a href="https://apps.apple.com/jp/app/tree-branchnote/id6753930828
+"><img src="../Download_on_the_App_Store_Badge_JP_RGB_blk_100317.svg" width="100"/></a>
+
+<br>
 
 
 Tree-BranchNoteは、思考やアイデアを「枝分かれ」させながら整理できるメモアプリです。
