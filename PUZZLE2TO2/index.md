@@ -1,5 +1,8 @@
 # PUZZLE 2 TO 2
 ![TITLE IMAGE](TITLE.PNG)
+<br><br>
+<a href="https://apps.apple.com/jp/app/puzzle-2-to-2/id6753619742
+"><img src="../Download_on_the_App_Store_Badge_JP_RGB_blk_100317.svg" height="50"/></a><br><br>
 「PUZZLE 2 TO 2」 は、シンプルなルールの中に奥深い戦略性を秘めた思考型ゲームです。<br>
 全てのゴールを埋めるために、壁やワープ、移動する障害物など多彩なギミックを読み解き、最適なルートを導き出してください。
 

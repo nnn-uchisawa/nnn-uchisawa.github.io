@@ -2,7 +2,12 @@
 <img src="example1.PNG" height="300">
 <img src="example2.PNG" height="300">
 <img src="example3.PNG" height="300">
-<br>
+<br><br>
+<a href="https://apps.apple.com/jp/app/tree-branchnote/id6753930828
+"><img src="../Download_on_the_App_Store_Badge_JP_RGB_blk_100317.svg" height="50"/></a><br><br>
+
+
+
 Tree-BranchNoteは、思考やアイデアを「枝分かれ」させながら整理できるメモアプリです。
 日常のメモから、複雑なプロジェクト管理、学習ノートまで、あらゆる情報を階層構造で管理できます。
 
