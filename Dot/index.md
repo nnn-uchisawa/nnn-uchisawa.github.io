@@ -1,7 +1,7 @@
 # Dot紙相撲
 ## iOS
-<img src="1.png" width="500"><br>
-<img src="2.png" width="500">
+<img src="1.PNG" width="500"><br>
+<img src="2.PNG" width="500">
 
 <br>
 
@@ -13,7 +13,7 @@ MultiPeerConnectivityが上手く扱い切れずBlueTooth対戦はオミット�
 
 <br>
 
-<img src="3.png" width="200">
+<img src="3.PNG" width="200">
 
 <br>
 

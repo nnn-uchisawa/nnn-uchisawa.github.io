@@ -1,6 +1,6 @@
 # CatNyanbers
 ## iOS
-<img src="1.png" width="200">
+<img src="1.PNG" width="200">
 
 <br>
 
@@ -13,6 +13,6 @@ iOS公式のGameCenterのLeaderBoardにも対応していました。
 
 <br>
 
-<img src="2.png" width="200">
+<img src="2.PNG" width="200">
 
 <br>
