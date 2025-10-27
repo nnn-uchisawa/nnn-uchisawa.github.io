@@ -9,11 +9,11 @@
 単純なゲームなら受けるのではないか？
 親世代にとってノスタルジーもあり子供にも遊んでもらえるのではないか？との思いから生まれたゲームです。<br>
 技術的にはFirebaseを使用していてネット対戦が可能でした。
-MultiPeerConnectivityが上手く扱い切れずBlueTooth対戦はオミットしての公開になってしまったのが心残りです。
+MultiPeerConnectivityが上手く扱い切れずBluetooth対戦はオミットしての公開になってしまったのが心残りです。
 
 <br>
 
-<img src="3.PNG" width="200">
+<img src="3.PNG" width="500">
 
 <br>
 
