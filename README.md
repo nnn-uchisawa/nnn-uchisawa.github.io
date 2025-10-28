@@ -20,3 +20,6 @@ TouchTheNumbersという流行っていたアプリに乗っかろうとした�
 [Fake3DMaze](/Fake/index.md)<br>
 迷路探索アプリ
 迷路作成のアルゴリズムを選べる他、正解ルートを示す機能もあり
+
+[CODE BREAKER](/Cb/index.md)<br>
+プログラミングを始めてまもなくC言語で作成したコマンドラインで動くプログラム
